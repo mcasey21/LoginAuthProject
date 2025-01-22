@@ -16,11 +16,10 @@
 - error handling such as not allowing empty fields
 
 **Interface**
-- It was my first proper time using tkinter as I had previously messed around with it, I find it hard at the start to use the grid configuration to get all the widgets in the right places. Besides this I enjoyed learning tkinter and will definitely encorparate it again!
+- It was my first proper time using tkinter as I had previously messed around with it, I found it hard at the start to use the grid configuration to get all the widgets in the right places. Besides this I enjoyed learning tkinter and will definitely encorparate it again!
 
 **Password Encryption**
 - Instead of importing an encryption module I used the one I had made previously using python dictonaries, however I did beef it up to include 93 characters instead of the original 26
 
 **Images**
-
-![Login Page](C:\Users\micha\OneDrive\Pictures\Screenshots\RndBank_Login_Page.png)
+- ![Login Page](C:\Users\micha\OneDrive\Pictures\Screenshots\RndBank_Login_Page.png)
