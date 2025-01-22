@@ -20,12 +20,3 @@
 
 **Password Encryption**
 - Instead of importing an encryption module I used the one I had made previously using python dictonaries, however I did beef it up to include 93 characters instead of the original 26
-
-**Images**
-- ![Login Page](LoginAuthSystem/images/RndBank_Login_Page)
-- ![Warning](images/warning_page)
-- ![Account Page](images/Account_page)
-- ![No User Page](images/No_User_Page)
-
-
-
